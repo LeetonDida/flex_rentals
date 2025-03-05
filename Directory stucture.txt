@@ -1,0 +1,27 @@
+house-rental-system/
+│
+├── app/
+│   ├── controllers/
+│   │   ├── AuthController.php
+│   │   └── DashboardController.php
+│   ├── models/
+│   │   ├── User.php
+│   │   └── Database.php
+│   └── views/
+│       ├── auth/
+│       │   ├── login.php
+│       │   └── register.php
+│       └── dashboard/
+│           └── index.php
+│
+├── public/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── scripts.js
+│   └── index.php
+│
+├── config/
+│   └── config.php
+│
+└── .htaccess
